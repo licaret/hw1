@@ -1,0 +1,16 @@
+.profile {
+	display: flex;
+	flex-direction: column;
+}
+
+.avatar {
+	width: 10%;
+	border-radius: 50%;
+}
+
+.stats {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	gap: 20px;
+}
